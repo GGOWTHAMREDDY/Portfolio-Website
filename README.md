@@ -13,11 +13,13 @@ A personal portfolio website built using **HTML & CSS** to showcase my skills, p
 - **Styling:** CSS animations
 - **Deployment:** GitHub Pages  
 
-## 🌍 Open index.html in your browser:
-- Double-click index.html
+## 🎯 How to Open  
+### **📌 In VS Code:**  
+1. Open the folder in VS Code.  
+2. Install **Live Server** extension.  
+3. Right-click `index.html` > **"Open with Live Server"**.
 
 ## 📞 Contact Me
-
 - 📧 Email: gowthamreddy7895@gmail.com
 - 🔗 LinkedIn: Gowtham Reddy
 - 🐙 GitHub: GGOWTHAMREDDY
